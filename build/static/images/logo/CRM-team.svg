@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.5" height="14.5" viewBox="0 0 16.5 14.5">
+  <g id="CRM-team" transform="translate(-5.48)">
+    <ellipse id="Oval" cx="2.987" cy="2.89" rx="2.987" ry="2.89" transform="translate(7.72 0)" fill="#7f7f7f"/>
+    <path id="Path" d="M0,5.057a.734.734,0,0,0,.747.722H9.708a.734.734,0,0,0,.747-.722A5.151,5.151,0,0,0,5.227,0,5.151,5.151,0,0,0,0,5.057Z" transform="translate(5.48 5.78)" fill="#7f7f7f"/>
+    <path id="Path-2" data-name="Path" d="M0,5.994a.833.833,0,0,0,.809.856h9.71a.833.833,0,0,0,.809-.856A5.843,5.843,0,0,0,5.664,0,5.843,5.843,0,0,0,0,5.994Z" transform="translate(10.152 7.15)" fill="#7f7f7f" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    <ellipse id="Oval-2" data-name="Oval" cx="2.987" cy="2.89" rx="2.987" ry="2.89" transform="translate(12.519 2.141)" fill="#7f7f7f" stroke="#fff" stroke-miterlimit="10" stroke-width="0.5"/>
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="119px" height="130px" viewBox="0 0 119 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="23" y="28" width="64" height="63" rx="3"></rect>
+        <filter x="-10.9%" y="-7.9%" width="121.9%" height="122.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0675373211 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="42.5597939" y="38.2002792" width="64" height="57" rx="3"></rect>
+        <filter x="-10.9%" y="-8.8%" width="121.9%" height="124.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.120022434 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="step-2---Brief" transform="translate(-924.000000, -728.000000)">
+            <g id="Group-5" transform="translate(335.000000, 671.000000)">
+                <g id="Group-4" transform="translate(1.000000, 30.000000)">
+                    <g id="Group-10" transform="translate(588.000000, 26.000000)">
+                        <rect id="Rectangle" fill="#E0E0E0" transform="translate(73.280523, 44.157735) rotate(35.000000) translate(-73.280523, -44.157735) " x="41.2805232" y="12.6577354" width="64" height="63" rx="3"></rect>
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <circle id="Oval" fill="#D8D8D8" cx="40.5" cy="41.5" r="4.5"></circle>
+                        <circle id="Oval" fill="#D8D8D8" cx="42" cy="52.5" r="8"></circle>
+                        <circle id="Oval" stroke="#DCDCDC" cx="40.5" cy="46.5" r="11.5"></circle>
+                        <g id="Rectangle" transform="translate(74.559794, 66.700279) rotate(35.000000) translate(-74.559794, -66.700279) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="Group-11" transform="translate(78.008028, 62.020885) rotate(34.000000) translate(-78.008028, -62.020885) translate(51.008028, 44.020885)">
+                            <rect id="Rectangle" fill="#EDEDED" x="0" y="0" width="54" height="36" rx="2"></rect>
+                            <circle id="Oval" fill="#CDCDCD" cx="12.5" cy="17.5" r="5.5"></circle>
+                            <polygon id="Path-4" fill="#929292" points="0 36 21 9.36354065 33 24.5 41.0012525 18 54 36"></polygon>
+                        </g>
+                        <path d="M19.7286358,67.5 L8,67.5 C3.85786438,67.5 0.5,70.8578644 0.5,75 L0.5,123 C0.5,127.142136 3.85786438,130.5 8,130.5 L101,130.5 C105.142136,130.5 108.5,127.142136 108.5,123 L108.5,87.1327362 C108.5,82.9906006 105.142136,79.6327362 101,79.6327362 L34.947897,79.6327362 L19.7286358,67.5 Z" id="Rectangle" stroke="#D1D1D1" fill="#FFFFFF"></path>
+                        <circle id="Oval" fill="#F0F0F0" cx="55" cy="104" r="16"></circle>
+                        <circle id="Oval" fill="#C1C1C1" cx="55" cy="104" r="10"></circle>
+                        <path d="M55,108.5 L55,100.173973" id="Line-7" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"></path>
+                        <path d="M51.5,103.5 L55,100.173973" id="Line-6" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"></path>
+                        <path d="M55.5,103.5 L59,100.173973" id="Line-6" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" transform="translate(57.000000, 102.000000) scale(-1, 1) translate(-57.000000, -102.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

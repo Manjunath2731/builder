@@ -1,0 +1,46 @@
+.rbc-current-time-indicator{
+    background-color: red;
+    /* width: 100vw; */
+    /* left:-45vw; */
+}
+.rbc-event{
+    padding: 0.2rem;
+    width:90% !important;
+    height: 18.125% !important;
+    border:1px solid #546de5 !important;
+    border-radius:10px !important;
+    left:15% !important;
+
+}
+.rbc-event-label{
+    width: 100%;    
+    font-weight: bolder; 
+    line-height: 200%!important;
+}
+.rbc-event-content{
+    /* line-height: 400%!important; */
+    line-height: 120%!important;
+}
+.rbc-time-view .rbc-time-gutter {
+    width:105px;
+}
+
+.getTimenowCss{
+    width: 31px;
+    height: 15px;
+    /* border: 2px solid; */
+    background-color: red;
+    /* margin-left:500px; */
+    color: white;
+    margin-top: -7px;
+    font-size: 11px;
+}
+.rbc-time-view .rbc-allday-cell{
+    display:none;
+}
+.rbc-button-link{
+    padding: 9px;
+}
+.rbc-time-view .rbc-time-gutter {
+    text-align: center;
+}

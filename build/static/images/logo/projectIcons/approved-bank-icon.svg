@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>approved-bank-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="step-2---Brief" transform="translate(-94.000000, -607.000000)">
+            <g id="form" transform="translate(52.000000, 255.000000)">
+                <g id="update-1" transform="translate(41.000000, 0.000000)">
+                    <g id="approved-bank-icon" transform="translate(0.000000, 352.000000)">
+                        <path d="M8.72230885,0.185456523 L1.37125875,5.09486831 C1.14162009,5.2482329 1.07978773,5.55871838 1.23315232,5.78835704 C1.32591857,5.92725949 1.48191856,6.01066589 1.6489499,6.01066589 L16.3510501,6.01066589 C16.6271925,6.01066589 16.8510501,5.78680827 16.8510501,5.51066589 C16.8510501,5.34363455 16.7676437,5.18763456 16.6287412,5.09486831 L9.27769115,0.185456523 C9.10958514,0.0731866284 8.89041486,0.0731866284 8.72230885,0.185456523 Z" id="Path-3" fill="#B2B2B2"></path>
+                        <rect id="Rectangle" fill="#FFFFFF" x="8" y="3" width="2" height="1" rx="0.5"></rect>
+                        <path d="M2.5,7.5 L15.5696564,7.5" id="Line-2" stroke="#B2B2B2" stroke-linecap="round"></path>
+                        <path d="M2.5,16 L15.5696564,16" id="Line-2" stroke="#B2B2B2" stroke-width="2" stroke-linecap="round"></path>
+                        <path d="M4.5,10 L4.5,13" id="Line-4" stroke="#B2B2B2" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M7.5,10 L7.5,13" id="Line-4" stroke="#B2B2B2" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M10.5,10 L10.5,13" id="Line-4" stroke="#B2B2B2" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M13.5,10 L13.5,13" id="Line-4" stroke="#B2B2B2" stroke-width="2" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

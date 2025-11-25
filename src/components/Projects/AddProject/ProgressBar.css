@@ -1,0 +1,100 @@
+.progress {
+          flex: 1;
+          overflow: hidden;
+          line-height: 0;
+          font-size: 0.75rem;
+          background-color: #ffffff;
+          border-radius: 0.25rem;
+          width: 90%;
+          margin-left: 5%;
+        }
+        
+        .progress-bar {
+          height: 2.8rem;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          overflow: hidden;
+          color: #fff;
+          text-align: center;
+          white-space: nowrap;
+          transition: width 0.6s ease;
+          background-color: #c9f0f7;
+        }
+        
+        .progress-striped .progress-bar,
+        .progress-bar-striped {
+          background-image: -webkit-linear-gradient(
+            45deg,
+            rgba(255, 255, 255, 0.15) 25%,
+            transparent 25% transparent 50%,
+            rgba(255, 255, 255, 0.15) 50%,
+            rgba(255, 255, 255, 0.15) 75%,
+            transparent 75% transparent
+          );
+          background-image: -o-linear-gradient(
+            45deg,
+            rgba(255, 255, 255, 0.15) 25%,
+            transparent 25% transparent 50%,
+            rgba(255, 255, 255, 0.15) 50%,
+            rgba(255, 255, 255, 0.15) 75%,
+            transparent 75% transparent
+          );
+          background-image: linear-gradient(
+            45deg,
+            rgba(255, 255, 255, 0.15) 25%,
+            transparent 25% transparent 50%,
+            rgba(255, 255, 255, 0.15) 50%,
+            rgba(255, 255, 255, 0.15) 75%,
+            transparent 75% transparent
+          );
+          background-size: 40px 40px;
+        }
+        
+        button {
+          margin-left: 10px;
+          border-radius: 0.25rem;
+          height: 2.2rem;
+        }
+        .centered-content {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 100%;
+        }
+        
+        .centered-content-inner {
+          display: flex;
+          align-items: center;
+          gap: 8px;
+        }
+        .percentage-right {
+          position: relative;
+          /* right: 0px; */
+          top: 10;
+          color: black;
+        }
+        .progressBarContainer {
+          margin-bottom: 10px;
+        }
+        .fileInfo {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-end;
+        }
+        
+        .fileInfo div {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          width: 100%;
+          margin-bottom: 10px;
+        }
+        
+        .deleteIcon {
+          width: 1.5em;
+          height: 1.5em;
+          color: red;
+          cursor: pointer;
+        }
+        

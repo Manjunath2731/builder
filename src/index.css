@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Helvetica Neue Medium";
+    src: local("Helvetica Neu"),
+    url("assets/fonts/Helvetica Neue Medium Extended.ttf") format("truetype");
+}
+
+@font-face {
+    font-family:'Helvetica Neue Light';
+    src:local('Helvetica Neu Light'),
+    url("assets/fonts/Helvetica Neue LTW0697BlkCnObl.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Helvetica Ultra Light';
+    src:local('Helvetica Neu Ultra Light'),
+    url("assets/fonts/Helvetica Neue UltraLight.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Helvetica Neue medium lite';
+    src:local('Helvetica Neu Medium Light'),
+    url("assets/fonts/Helvetica Neue W01 66 Medium It.ttf") format("truetype");
+}
+
+.apexcharts-tooltip-title{
+    color:black;
+}
+
+.apexcharts-tooltip span {
+    color:black;
+}

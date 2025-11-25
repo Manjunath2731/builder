@@ -1,0 +1,24 @@
+@media only screen and (min-width: 1660px) {
+    .SnackbarContainer-center {
+        margin-top: 60.5px !important;
+        margin-left: 12.8% !important;
+    } 
+}
+
+@media only screen and (min-width: 1440px){
+.SnackbarContainer-center {
+    margin-top: 60.5px;
+    margin-left:8.5% ;
+   }
+} 
+
+@media only screen and (min-width: 790px) {
+    .SnackbarContainer-center {
+        margin-top: 60.5px ;
+        margin-left: 8.4% ;
+    } 
+}
+
+
+
+ 

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="13px" viewBox="0 0 18 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>payment-plans-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="step-2---Brief" transform="translate(-127.000000, -562.000000)" fill="#B2B2B2" fill-rule="nonzero">
+            <g id="form" transform="translate(52.000000, 255.000000)">
+                <g id="update-1" transform="translate(63.000000, 0.000000)">
+                    <g id="payment-plans-icon" transform="translate(12.000000, 307.000000)">
+                        <path d="M18,2.91796875 L18,1.96875 C18,0.8814375 17.1185625,0 16.03125,0 L1.96875,0 C0.8814375,0 0,0.8814375 0,1.96875 L0,2.91796875 C0,3.01503516 0.0787148437,3.09375 0.17578125,3.09375 L17.8242188,3.09375 C17.9212852,3.09375 18,3.01503516 18,2.91796875 Z" id="Path"></path>
+                        <path d="M0,4.39453125 L0,10.40625 C0,11.4935625 0.8814375,12.375 1.96875,12.375 L16.03125,12.375 C17.1185625,12.375 18,11.4935625 18,10.40625 L18,4.39453125 C18,4.29746484 17.9212852,4.21875 17.8242188,4.21875 L0.17578125,4.21875 C0.0787148437,4.21875 0,4.29746484 0,4.39453125 Z M4.5,9 C4.5,9.31064063 4.24814062,9.5625 3.9375,9.5625 L3.375,9.5625 C3.06435937,9.5625 2.8125,9.31064063 2.8125,9 L2.8125,8.4375 C2.8125,8.12685937 3.06435937,7.875 3.375,7.875 L3.9375,7.875 C4.24814062,7.875 4.5,8.12685937 4.5,8.4375 L4.5,9 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,214 @@
+@media (min-width: 1441px) and (max-width: 1600px) {
+          #Vipcard {
+                    height: auto !important;
+          }
+
+          #show-image,
+          #show-image1 {
+                    column-gap: 10px !important;
+          }
+
+          #VipChannel {
+                    padding-left: 30px !important;
+                    padding-right: 30px !important;
+          }
+
+          #Yc-image-box {
+                    width: 90px !important;
+                    height: 90px !important
+          }
+
+          #VipProjects {
+                    column-gap: 25px !important;
+          }
+
+          #VipUpcoming {
+                    padding-left: 14px !important;
+                    padding-right: 14px !important;
+          }
+
+          #Event-All {
+                    margin-left: -25px !important;
+          }
+
+          /* #VipEventsAll {
+                    padding-left: 40px !important;
+                    padding-right: 40px !important;
+          } */
+       
+}
+
+@media (min-width: 1280px) and (max-width: 1440px) {
+          #show-image,
+          #show-image1 {
+                    column-gap: 10px !important;
+          }
+
+          #VipChannel {
+                    padding-left: 25px !important;
+                    padding-right: 25px !important;
+          }
+
+          #Yc-image-box {
+                    width: 80px !important;
+                    height: 80px !important
+          }
+          #team-image{
+                    column-gap: 12px !important;
+          }
+          #VipProjects {
+                    column-gap: 15px !important;
+          }
+          #VipUpcoming {
+                    padding-left: 14px !important;
+                    padding-right: 14px !important;
+          }
+
+          #Event-All {
+                    margin-left: -25px !important;
+          }
+          #VipCharts{
+                    padding-left: 0px !important;
+                    padding-right: 0px !important;
+          }
+}
+@media screen and (min-width: 1025px) and (max-width: 1280px){
+  #VIP-GI{
+          max-width: 100% !important;
+  }
+  #show-image,
+  #show-image1 {
+            column-gap: 15px !important;
+  }
+
+  #VipChannel {
+            padding-left: 20px !important;
+            padding-right: 20px !important;
+  }
+  #VipUpcoming {
+          padding-left: 14px !important;
+          padding-right: 14px !important;
+}
+#Event-All {
+          margin-left: -25px !important;
+}
+}
+@media screen and (min-width: 960px) and (max-width: 1024px) {
+          #VIP-GI{
+                    max-width: 100% !important;
+            }
+            #show-image,
+            #show-image1 {
+                      column-gap: 15px !important;
+            }
+          
+            #VipChannel {
+                      padding-left: 35px !important;
+                      padding-right: 35px !important;
+            }
+            #VipUpcoming {
+                    padding-left: 14px !important;
+                    padding-right: 14px !important;
+          }
+          #Event-All {
+                    margin-left: -25px !important;
+          }  
+          #team-image{
+                    column-gap: 35px !important;
+          }
+          #VipProjects {
+                    column-gap: 40px !important;
+          }
+}
+@media screen and (min-width: 876px) and (max-width: 959px) {
+          #VIP-GI{
+                    max-width: 100% !important;
+            }
+            #box2{
+                    padding: 12px !important;
+            }
+            #show-image,
+            #show-image1 {
+                      column-gap: 15px !important;
+            }
+          
+            #VipChannel {
+                      padding-left: 35px !important;
+                      padding-right: 35px !important;
+            }
+            #VipUpcoming {
+                    padding-left: 14px !important;
+                    padding-right: 14px !important;
+          }
+          #Event-All {
+                    margin-left: -25px !important;
+          }  
+          #team-image{
+                    column-gap: 35px !important;
+          }
+          #VipProjects {
+                    column-gap: 15px !important;
+          }
+          #Yc-image-box {
+                    width: 80px !important;
+                    height: 80px !important
+          }
+          #VipCharts{
+                    padding-left: 0px !important;
+                    padding-right: 0px !important;
+          }
+}
+@media screen and (min-width: 720px) and (max-width: 875px) {
+          #VIP-GI{
+                    max-width: 100% !important;
+            }
+            #box2{
+                    padding: 12px !important;
+            }
+            #show-image,
+            #show-image1 {
+                      column-gap: 8px !important;
+            }
+          
+            #VipChannel {
+                      padding-left: 40px !important;
+                      padding-right: 40px !important;
+            }
+            #VipUpcoming {
+                    padding-left: 14px !important;
+                    padding-right: 14px !important;
+          }
+          #Event-All {
+                    margin-left: -25px !important;
+          }  
+          #team-image{
+                    column-gap: 35px !important;
+          }
+        
+          #your-image,#your-image1{
+                    column-gap: 8px !important;   
+             } 
+             #Yc-image-box {
+                    width: 65px !important;
+                    height: 65px !important;
+                  }
+                
+                  #Yc-image {
+                    width: 55px !important;
+                    height: 55px !important;
+                  }
+          #VipCharts{
+                    padding-left: 0px !important;
+                    padding-right: 0px !important;
+          }
+          #charts{
+                    height:120px !important
+          }
+          #text{
+                    font-size: 12px !important;
+          }
+          #vipChart{
+                    padding-left: 20px !important;
+                    padding-right: 20px !important;   
+          }
+}

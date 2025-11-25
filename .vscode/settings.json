@@ -1,0 +1,18 @@
+{
+    "prettier.semi": false,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "34.201.19.31",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "bb_iam1",
+            "database": "bb_iam1",
+            "username": "builderBroadcast",
+            "password": "Iam@2022"
+        }
+    ]
+}

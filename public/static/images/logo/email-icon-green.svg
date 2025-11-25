@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="email-icon-green" transform="translate(-341 -106.5)">
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="16" cy="16" r="16" transform="translate(341 106.5)" fill="#00c45f"/>
+    <path id="email_icon" d="M8,13a2.389,2.389,0,0,1-1.474-.513L0,7.412V14.5A1.5,1.5,0,0,0,1.5,16h13A1.5,1.5,0,0,0,16,14.5V7.412L9.475,12.491A2.407,2.407,0,0,1,8,13ZM.509,6.541,7.14,11.7a1.4,1.4,0,0,0,1.721,0l6.631-5.159A1.412,1.412,0,0,0,16,5.5,1.5,1.5,0,0,0,14.5,4H1.5A1.5,1.5,0,0,0,0,5.5,1.319,1.319,0,0,0,.509,6.541Z" transform="translate(349 112.5)" fill="#fff"/>
+  </g>
+</svg>
